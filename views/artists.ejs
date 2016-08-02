@@ -1,0 +1,7 @@
+<h1>This is the Artists Page!</h1>
+<% artists.forEach(function(artists){ %>
+<div>
+  <h4><%= artists.name %></h4>
+  <img src="<%= artists.image %>" alt="Artist photo"/>
+</div>
+<% }); %>
