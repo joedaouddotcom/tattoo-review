@@ -1,0 +1,27 @@
+{
+  "name": "TattooReview",
+  "version": "1.0.0",
+  "description": "A way to review tattoo artists and parlors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joedaouddotcom/tattoo-review.git"
+  },
+  "keywords": [
+    "tattoo",
+    "reviews"
+  ],
+  "author": "Joe Daoud - www.joedaoud.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joedaouddotcom/tattoo-review/issues"
+  },
+  "homepage": "https://github.com/joedaouddotcom/tattoo-review",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
+}
