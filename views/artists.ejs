@@ -1,3 +1,5 @@
+
+<% include partials/header %>
 <h1>This is the Artists Page!</h1>
 <% artists.forEach(function(artists){ %>
 <div>
@@ -5,3 +7,5 @@
   <img src="<%= artists.image %>" alt="Artist photo"/>
 </div>
 <% }); %>
+
+<% include partials/footer %>
