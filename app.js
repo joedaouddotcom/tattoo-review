@@ -14,9 +14,14 @@ var shops = [
 
 // ARTISTS SAMPLE DATA
 var artists = [
-  {name: "Kat Von D", image: "http://media.todaybirthdays.com/thumb_x256x256/upload/1982/03/08/kat-von-d.jpg"},
-  {name: "Don Ed Hardy", image: "http://images4.fanpop.com/image/photos/18500000/christian-audigier-and-ed-hardy-christian-audigier-and-ed-hardy-18588424-380-500.jpg"},
-  {name: "Sailor Jerry", image: "https://img0.etsystatic.com/015/0/7011699/il_570xN.467689996_o7hj.jpg"}
+  {name: "Kat Von D", image: "http://careersamosa.com/wp-content/uploads/2014/08/TattooArtiste-Picture.jpg"},
+  {name: "Don Ed Hardy", image: "http://www.tattooartist.co.in/images/10/tattoo%20artist%20Dev%20a.jpg"},
+  {name: "Sailor Jerry", image: "http://aceshightattooshop.com/wp-content/uploads/2013/05/joe-400x300.jpg"},
+  {name: "Kat Von D", image: "http://careersamosa.com/wp-content/uploads/2014/08/TattooArtiste-Picture.jpg"},
+  {name: "Don Ed Hardy", image: "http://www.tattooartist.co.in/images/10/tattoo%20artist%20Dev%20a.jpg"},
+  {name: "Sailor Jerry", image: "http://aceshightattooshop.com/wp-content/uploads/2013/05/joe-400x300.jpg"},
+  {name: "Kat Von D", image: "http://careersamosa.com/wp-content/uploads/2014/08/TattooArtiste-Picture.jpg"},
+  {name: "Don Ed Hardy", image: "http://www.tattooartist.co.in/images/10/tattoo%20artist%20Dev%20a.jpg"}
 ]
 
 app.get('/', function(req, res){
