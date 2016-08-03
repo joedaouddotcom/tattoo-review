@@ -1,0 +1,10 @@
+<% include partials/header %>
+<h1>This is the Shops Page!</h1>
+<% shops.forEach(function(shops){ %>
+<div>
+  <h4><%= shops.name %></h4>
+  <img src="<%= shops.image %>" alt="Shops photo"/>
+</div>
+<% }); %>
+
+<% include partials/footer %>
